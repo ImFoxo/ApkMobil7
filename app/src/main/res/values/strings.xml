@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zad7</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="light_sensor_label">Czujnik światła\n%f lx</string>
+    <string name="location_button_label">Pobierz lokalizację</string>
+    <string name="location_overButton_text">Wciśnij przycisk, aby pobrać ostatnią lokalizację</string>
+    <string name="location_permission_denied">Prośba o dostęp do lokalizacji odrzucona</string>
+    <string name="location_textView">"Szerokość geograficzna: %1$.4f \nDługość geograficzna: %2$.4f \nCzas: %3$tr"</string>
+    <string name="no_location">Brak lokalizacji</string>
+    <string name="address_text">"Adres: %1$s \nCzas: %2$tr"</string>
+    <string name="address_button_label">Pobierz adres</string>
+    <string name="service_not_available">Rozpoznawanie adresów niedostępne</string>
+    <string name="no_address_found">Nie odnaleziono adresu</string>
+</resources>
